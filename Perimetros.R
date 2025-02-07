@@ -1,4 +1,4 @@
-AreaCuadrado <- function(L){
+PerimetroCuadrado <- function(L){
   return(4*L)
 }
 PerimetroRectángulo <- function(L1,L2){
